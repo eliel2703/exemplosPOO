@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ExemploException",
+      "request": "launch",
+      "mainClass": "ExemploException",
+      "projectName": "exemplosPOO_21714af0"
+    },
+    {
+      "type": "java",
       "name": "exemploDate",
       "request": "launch",
       "mainClass": "exemploDate",
