@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "exemplosPOO_ad41fcf2"
+    },
+    {
+      "type": "java",
       "name": "exemploWrapper",
       "request": "launch",
       "mainClass": "exemploWrapper",
